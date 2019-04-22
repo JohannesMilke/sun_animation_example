@@ -4,7 +4,7 @@ An animation where a sun is rotated. A Flutter application which runs on iOS, An
 
 Twitter: [@JohannesMilke](https://twitter.com/JohannesMilke "Twitter Johannes Milke")
 
-Facebook: [Johannes.Milke.37](https://www.facebook.com/johannes.milke.37 "Facebook Johannes Milke")
+Facebook: [JohannesMilke](https://www.facebook.com/milkejohannes "Facebook Johannes Milke")
 
 Medium: [@JohannesMilke](https://medium.com/@johannesmilke  "Flutter Articles of Johannes Milke")
 
